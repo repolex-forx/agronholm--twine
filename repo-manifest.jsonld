@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/agronholm/twine/commit/f74eae5506300387572c65c9dbfe240d927788c2",
       "git:hexsha": "f74eae5506300387572c65c9dbfe240d927788c2",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/agronholm/twine/commit/9b859a8796fb639095547ed694643e9d4d23e3be",
