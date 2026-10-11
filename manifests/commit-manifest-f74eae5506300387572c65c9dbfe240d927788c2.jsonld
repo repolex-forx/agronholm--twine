@@ -1,0 +1,38 @@
+{
+  "@context": "https://repolex.ai/ontology/jsonld-context/repolex-context.jsonld",
+  "@id": "https://repolex.ai/r/agronholm/twine/commit/f74eae5506300387572c65c9dbfe240d927788c2",
+  "@type": "git:Commit",
+  "git:hexsha": "f74eae5506300387572c65c9dbfe240d927788c2",
+  "repolex:repository": {
+    "@id": "https://repolex.ai/r/agronholm/twine"
+  },
+  "repolex:graphFile": [
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "filetree",
+      "repolex:graphFilePath": "filetree/f74eae5506300387572c65c9dbfe240d927788c2.nq.gz",
+      "repolex:graphFileSize": 5355
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "commit",
+      "repolex:graphFilePath": "commit/commit.nq.gz",
+      "repolex:graphFileSize": 163758
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "branch",
+      "repolex:graphFilePath": "branch/branch.nq.gz",
+      "repolex:graphFileSize": 479
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "tag",
+      "repolex:graphFilePath": "tag/tag.nq.gz",
+      "repolex:graphFileSize": 8239
+    }
+  ],
+  "repolex:parseStatus": "metadata_complete",
+  "repolex:parsedAt": "2026-10-11T21:11:07.866368+00:00",
+  "repolex:parserVersion": "0.1.10"
+}
